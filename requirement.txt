@@ -1,5 +1,6 @@
-numpy
+numpy == 1.16.4     
+pandas
+matplotlib
+seaborn
 sklearn
-requests
-flask
-gunicorn
+pyreadstat == 1.0.5
